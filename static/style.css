@@ -1,19 +1,27 @@
 h1 {
+    font-size: 50px;
+    text-align: center;
     color: #00aa00;
 }
 
+h2 {
+    font-size: 30px;
+    text-align: left;
+    color: black;
+}
+
 table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 40%;
 }
 
 td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+    background-color: #dddddd;
 }
